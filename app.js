@@ -15,3 +15,4 @@ import { userRouter } from "./routes/User.js";
 app.use("/api/v1", userRouter);
 
 // The rest of your code...
+app.use(express.static("build"));
