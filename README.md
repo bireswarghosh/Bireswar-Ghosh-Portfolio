@@ -7,7 +7,7 @@ Welcome to Bireswar Ghosh's Portfolio! This project serves as the personal portf
 https://bireswar-ghosh-portfolio.onrender.com/
 
 ## About
-About : THis is a personal portfolio project, providing an overview of Bireswar Ghosh's skills, projects, projects demo vedio and achievements. The portfolio is designed to be easily maintainable through an admin panel, allowing seamless updates to various sections.
+THis is a personal portfolio project, providing an overview of Bireswar Ghosh's skills, projects, projects demo vedio and achievements. The portfolio is designed to be easily maintainable through an admin panel, allowing seamless updates to various sections.
 
 ## Tech Stacks
 The portfolio is built using the following technologies:
